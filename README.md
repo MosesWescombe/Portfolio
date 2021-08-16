@@ -1,4 +1,4 @@
-# Portfolio - moseswescombe
+# moseswescombe
 
 ## Project setup
 ```
