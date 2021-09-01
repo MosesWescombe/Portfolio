@@ -1,5 +1,9 @@
 # Moses Wescombe
 
+Portfolio website for Moses Wescombe. Eventually hosted under moseswescombe.com
+Created using vue.js.
+Currently in progress.
+
 ## Project setup
 ```
 npm install
